@@ -1,0 +1,13 @@
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\bin\Debug\netcoreapp3.1\leidoscossenos.exe
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\bin\Debug\netcoreapp3.1\leidoscossenos.deps.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\bin\Debug\netcoreapp3.1\leidoscossenos.runtimeconfig.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\bin\Debug\netcoreapp3.1\leidoscossenos.runtimeconfig.dev.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\bin\Debug\netcoreapp3.1\leidoscossenos.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\bin\Debug\netcoreapp3.1\leidoscossenos.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\obj\Debug\netcoreapp3.1\leidoscossenos.csprojAssemblyReference.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\obj\Debug\netcoreapp3.1\leidoscossenos.AssemblyInfoInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\obj\Debug\netcoreapp3.1\leidoscossenos.AssemblyInfo.cs
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\obj\Debug\netcoreapp3.1\leidoscossenos.csproj.CoreCompileInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\obj\Debug\netcoreapp3.1\leidoscossenos.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\obj\Debug\netcoreapp3.1\leidoscossenos.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\leidoscossenos\obj\Debug\netcoreapp3.1\leidoscossenos.genruntimeconfig.cache
